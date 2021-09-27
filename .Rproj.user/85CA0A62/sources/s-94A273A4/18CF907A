@@ -1,0 +1,25 @@
+{
+    "id": "18CF907A",
+    "path": "~/Desktop/test/vdpMod/R/model.R",
+    "project_path": "R/model.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1632389763154.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "37,14",
+        "scrollLine": "30"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1632750816,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1632750816625,
+    "read_only": false,
+    "read_only_alternatives": []
+}

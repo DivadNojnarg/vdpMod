@@ -1,0 +1,16 @@
+[
+  {
+    "test": "\\.(f7).(html|js|jsx)$",
+    "use": [
+      "babel-loader",
+      "framework7-loader"
+    ]
+  },
+  {
+    "test": "\\.css$",
+    "use": [
+      "style-loader",
+      "css-loader"
+    ]
+  }
+]
