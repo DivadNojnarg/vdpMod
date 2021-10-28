@@ -13,3 +13,5 @@ $run_dev.*
 ^webpack\.common\.js$
 ^app\.R$
 ^rsconnect$
+^R/_disable_autoload\.R$
+^\.babelrc$
